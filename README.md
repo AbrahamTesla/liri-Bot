@@ -12,4 +12,4 @@ Here are the results image:
 ![alt text](./movieThis.png)
 ![alt text](./spotify-this-song.png)
 ![alt text](./My-tweets.png)
-![alt text](./doWhatItSays.png)
+![alt text](./DoWhatItSays.png)
