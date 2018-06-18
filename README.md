@@ -1,2 +1,2 @@
 # liri-Bot
-![alt text](./movieResult.png)
+![alt text](./movieThis.png)
